@@ -17,6 +17,9 @@ followed by some text
 ##### H5
 followed by some text
 
+###### H6
+followed by some text
+
 Auto-detected link: http://www.france.com
 
 Some Ignored_multiple_underscore_italics here
