@@ -40,12 +40,12 @@ Followed by another line of normal text with `inline code` and *italics*, **stro
 |--------------|--------------|
 |Content       |Cntent        |
 |Content       |Content       |
-Text right below table
+Text right below table. Follows is a table with an empty cell, and unaligned indenting.
 
 |Table Header 1|Table Header 2|
 |--------------|--------------|
-|Content       |Cntent        |
-|Content       |Content       |
+|Content  |  Cntent        |
+|Content       |      |
 
 Empty line between table and this text
 
@@ -55,25 +55,25 @@ Empty line between table and this text
 
 <code>
 def this_is
-  puts "some #{code tag} ruby code"
+  puts "some #{code tag} code"
 end
 </code>
 
 <pre>
 def this_is
-  puts "some #{pre tag} ruby code"
+  puts "some #{pre tag} code"
 end
 </pre>
 
 ```
 def this_is
-  puts "some #{fenced} ruby code"
+  puts "some #{fenced} code"
 end
 ```
 
 ```ruby
 def this_is
-  puts "some #{colored} ruby code"
+  puts "some #{colored} ruby code with ruby syntax highlighting"
 end
 ```
 
