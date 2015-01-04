@@ -50,7 +50,7 @@ Text right below table. Follows is a table with an empty cell, and unaligned ind
 Empty line between table and this text
 
     def this_is
-      puts "some #{4-space-indent} ruby code"
+      puts "some #{4-space-indent} code"
     end
 
 <code>
