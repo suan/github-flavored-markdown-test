@@ -78,3 +78,5 @@ end
 ```
 
 > here is blockquote
+
+[Relative image link](afu.png)
