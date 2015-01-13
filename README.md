@@ -36,10 +36,10 @@ Thick horizontal rule:
 
 ------
 
-|Table Header 1|Table Header 2|
-|--------------|--------------|
-|Content       |Cntent        |
-|Content       |Content       |
+|Table Header 1|Table Header 2           |
+|--------------|-------------------------|
+|Content       |http://example.org       |
+|Content       |http://localhost:\<port\>|
 Text right below table. Follows is a table with an empty cell, and unaligned indenting.
 
 |Table Header 1|Table Header 2|
