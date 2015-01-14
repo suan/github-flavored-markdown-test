@@ -86,6 +86,13 @@ var test = function this_is(){
 }
 ```
 
+```clojure
+(defproject myproject "0.5.0-SNAPSHOT"
+  :description "Some clojure code with syntax highlighting."
+  :dependencies [[org.clojure/clojure "1.5.1"]]
+  :plugins [[lein-tar "3.2.0"]])
+```
+
 ```js
 var test = function this_is(){
   console.log("language declared as 'js' instead");
